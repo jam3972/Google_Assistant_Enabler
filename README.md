@@ -13,8 +13,7 @@ For smooth experience transitioning to Google Assistant from Google Now follow t
 ## Requirements
 1. Android Nougat 7.0+
 2. Google app version 6.10.31.21 or higher (if your current version of Google app is lower, you can opt in for beta-test of Google app [here](https://play.google.com/apps/testing/com.google.android.googlequicksearchbox))
-3. Magisk 10 or higher
-4. Magisk Manager 3.0 or higher
+3. Magisk 14 or higher
 
 
 ## Important Notice
@@ -23,6 +22,9 @@ From version 10.0.2 this module no longer changes the phone model/manufacturer. 
 The legacy version which still changes the phone model can be downloaded [here](https://github.com/stangri/MagiskFiles/raw/master/GoogleAssistantEnabler-10.0.1.zip). It is kept for people who have apps which trigger security protection when the phone model change is detected. This is also the latest version compatible with Magisk 9.
 
 ## Change Log
+14.0.0
+    - Magisk v14-compatible, use of template 1400.
+
 11.0.0
     - Magisk v11-compatible, use of template v2.
 
