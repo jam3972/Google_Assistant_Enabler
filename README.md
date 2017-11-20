@@ -1,3 +1,8 @@
+# All this fork does is add back in changing the phone model/manufacturer in system.prop.This is in order to enable "live translate" feature on the google pixel buds. Only tested with Nexus 6p android 8.1 Dp1.
+
+Original readme below:
+
+
 # Google Assistant Enabler
 This Magisk module enables Google Assistant on phones running Nougat. [More details in support thread](http://forum.xda-developers.com/apps/magisk/module-google-assistant-enabler-magisk-t3518883).
 
